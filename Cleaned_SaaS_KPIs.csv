@@ -1,0 +1,170 @@
+By Industry,,,,,, By Location,,,
+Row Labels,Average of cac_min,Average of ltv_dollars,Average of arr_min,,,Row Labels,Average of cac_min,Average of ltv_dollars,Average of arr_min
+Business Intelligence,22270.63636,565650.1985,10868363.52,,,Amsterdam,100000,2000000,4200000
+Consumer,177.4,2923,2608000,,,Amsterdam - Bulgaria,1500,150000,180000
+Human Resources,7416.538462,92465,11808922.92,,,Annapolis,60,650,14400000
+Marketing Automation,11430.48529,121459.0132,9230492.588,,,Arizona,17,7000,840000
+Marketplace,14003.33333,166746.6667,12266666.67,,,Arlington,11000,141700,849996
+Misc,5554.083333,43514.5,7905166.667,,,"Arlington, Virginia",200,22000,360000
+Real Estate,7600,213700,2686000,,,Atlanta,12000,120000,3600000
+Sales Automation,10849.47917,170042.3333,10523491.67,,,"Atlanta, Georgia",50000,180000,20000000
+Team Communication,2324.68,34601.9264,8101240,,,"Auburn, California",600,8700,22000000
+Technical Solutions,25956.59259,246367.7037,26862962.96,,,Austin,200,750,1800000
+Grand Total,12487.95181,186639.3438,11551783.49,,,"Austin, London, Sydney",30000,140000,7500000
+,,,,,,"Austin, Texas",1800,22000,3168000
+,,,,,,"Austin, TX",1500,2500,600000
+Customer Segments,,,,,,Bangalore,357.5,3300,2490000
+Row Labels,Average of arr_min,Average of ltv_cac,Count of name,,,"Bangalore, India",12000,200000,7400000
+Large,16923193.09,27.52613636,88,,,"Barcelona, Spain",3000,200000,16800000
+Medium,12153501.6,1435.421692,65,,,Belarus,1600,2000,12000000
+Small,6187376.206,26.04886598,97,,,Belgium,725,5625,393000
+Grand Total,11517576.35,393.0058,250,,,"Belgium, Brussels",7000,55000,1600000
+,,,,,,"Birmingham, United Kingdom",6000,150000,4800000
+,,,,,,"Boise, California",180,1500,35000000
+,,,,,,Boston,8700,163000,6400000
+,,,,,,"Boston, MA",75000,1348333.333,26733333.33
+,,,,,,"Boston, Massachusetts",15340,171460,25264000
+,,,,,,"Boston, Massachusetts - Athens, Greece",500,3500,20000000
+,,,,,,"Boston, Massachusetts, United States",150,1666,3100000
+,,,,,,"Boulder, CO",80,240,40000000
+,,,,,,Brazil,1100,16241.5,5667000
+,,,,,,"Brighton, United Kingdom",28000,150000,60000000
+,,,,,,"Bristol, UK",4700,103700,11350000
+,,,,,,"Buffalo, New York",3000,50000,1500000
+,,,,,,CA/Europe,300,75000,20400000
+,,,,,,California,60000,374000,8400000
+,,,,,,"Cambridge, Massachusetts",315,4000,1092000
+,,,,,,Canada,80,4100,3370000
+,,,,,,"Cary, NC",5850,25000,1350000
+,,,,,,"Chandler, AZ",2000,12500,100000000
+,,,,,,Chicago,3000,11000,20000000
+,,,,,,"Chicago, Illinois",1100,31200,6000000
+,,,,,,"Cincinnati, OH",17,120,828000
+,,,,,,Colorado,1000,10000,600000
+,,,,,,"Colorado, Latvia, India",50,10000,12000000
+,,,,,,"Cork, Ireland",360,2880,18000000
+,,,,,,"Delhi, India",720,3600,18000000
+,,,,,,"Denver, Colorado",116000,830000,149400000
+,,,,,,"Denver, Remote",35000,58340,7000000
+,,,,,,Detroit,150,9200,906000
+,,,,,,"Detroit, Michigan",2000,120000,3840000
+,,,,,,draper utah,5400,28800,10000000
+,,,,,,"Dublin, Ireland",800,13000,780000
+,,,,,,"Durham, North Carolina",20000,250000,6000000
+,,,,,,"Durham, Remote",2000,22500,1080000
+,,,,,,Fort Collins,3000,87500,105000000
+,,,,,,"Gent, Oost-Vlaanderen, Belgium",50000,200000,30000000
+,,,,,,"Gurgaon, Haryana, India",750,2250,2250000
+,,,,,,Halifax,50,1044,1800000
+,,,,,,"Hamburg, Germany",50000,3500000,10000000
+,,,,,,"Helsinke, Amsterdam, NYC",3200,40000,4800000
+,,,,,,Houston,360,1764,882000
+,,,,,,Iceland,1200,3600,0
+,,,,,,India,1000,3000,1176000
+,,,,,,"India, SF",35000,250020,4000000
+,,,,,,Indiana,10000,330000,1020000
+,,,,,,Indianapolis,15633.33333,111900,8933334.667
+,,,,,,"Indianapolis, Indiana",1000,4000,11520000
+,,,,,,Israel,330,1900,6524000
+,,,,,,Israel - USA,2500,50000,3000000
+,,,,,,"Kansas City, Kansas",50,1166.55,1800000
+,,,,,,"Kiev ,Ukraine",150,700,425000
+,,,,,,"Kingston, Ontario",150000,900000,7500000
+,,,,,,"Knoxville, TN",100,800,12000000
+,,,,,,"London, Lithuania",180,857.4,2160000
+,,,,,,"London, UK",10000,132000,9900000
+,,,,,,"Los Angeles, CA",1100,24000,4800000
+,,,,,,"Los Angeles, California",8025,52500,4800000
+,,,,,,Lousivelle KY,12,220,1320000
+,,,,,,Malta,35,1040,6240000
+,,,,,,Maryland,75,210,1200000
+,,,,,,"Mountain View, California",3752.5,63750,3000000
+,,,,,,"New Delhi, India",150,500,222000
+,,,,,,New York,15005,150120,14700000
+,,,,,,"New York, New York",40277.83333,261283.3333,9866666.667
+,,,,,,"New York, NY",7200,300000,72000000
+,,,,,,"New York, United States",500,3400,540000
+,,,,,,North Carolina,2400,20000,3600000
+,,,,,,NYC,55233.33333,623333.3333,14264000
+,,,,,,"NYC, Paris",1000,3000,2880000
+,,,,,,"NYC, Remote, London",3000,25000,1668000
+,,,,,,"NYC, San Francisco, Philiedlpiha, Scottsdale",1500,7500,18000000
+,,,,,,"Ogden, Utah",400,10000,6000000
+,,,,,,Ottawa,700,2500,6000000
+,,,,,,"Ottawa, Canada",300,-0.84,1200000
+,,,,,,Palo Alto,1000,6000,50000000
+,,,,,,"Palo Alto, CA",1000,3840,21600000
+,,,,,,"Palo Alto, California",36000,200000,1500000
+,,,,,,"Paris, France",575,14833,2880000
+,,,,,,"Phoenix, Arizona",10000,80000,3000000
+,,,,,,"Pittsburgh, PA",2400,10000,9000000
+,,,,,,"Pittsburgh, Pennsylvania",50,3600,108000
+,,,,,,"Pleasanton, California",7000,36000,1000000
+,,,,,,Poland,280,1500,2400000
+,,,,,,"Portland, Beruit",120,400,444000
+,,,,,,"Portland, Colorado, Remote",100000,500000,20000000
+,,,,,,"Portland, SF, Utah, East Coast",30000,90000,3000000
+,,,,,,"Prague, Czech Republic",12000,36000,35000000
+,,,,,,"Provo, Utah",19500,162500,6350000
+,,,,,,"Quebec, Canada",9000,750000,90000000
+,,,,,,"Raleigh, NC",10000,60000,2100000
+,,,,,,"Raleigh, North Carolina",36000,300000,14400000
+,,,,,,"Redwood City, California",53000,500000,25000000
+,,,,,,Remote,8051.142857,42456.57143,6563107.143
+,,,,,,Reston,50,13300,20000000
+,,,,,,Rhode Island,1000,840,5040000
+,,,,,,"Rochester, New York",18000,200000,14400000
+,,,,,,Sacramento,12000,575000,12000000
+,,,,,,"Sacramento, California",300,362.5,1044000
+,,,,,,"San Antonio, Texas",3000,50000,10800000
+,,,,,,San Diego,14,4821.5,3711000
+,,,,,,"San Diego, CA",9500,215000,11000000
+,,,,,,San Francisco,7273.7,60053.1,8375960
+,,,,,,San Francisco Bay Area,750,3000,2400000
+,,,,,,"San Francisco, CA",16450,1944033.333,8766666.667
+,,,,,,"San Francisco, California",2196.142857,23907.14286,5984000
+,,,,,,"San Francisco, California - India ",60,2500,780000
+,,,,,,"San Francisco, Seattle,NYC, London",30000,500000,90000000
+,,,,,,"San Francisco,Sweeden",220,4000,1700000
+,,,,,,"San Jose, CA",50,213,130000000
+,,,,,,"San Jose, California",60,2000,1200000
+,,,,,,San Mateo,9000,100000,6000000
+,,,,,,"San Mateo, CA",18000,200000,4000000
+,,,,,,"San Mateo, California",30,400,30000000
+,,,,,,"Santa Barbara, Remote",20000,250000,15000000
+,,,,,,"Santa Monica, Ukraine",5,667,2700000
+,,,,,,"Saskatoon, Saskatchewan, Canada",9000,100000,27600000
+,,,,,,SC,3000,1300000,3360000
+,,,,,,"Scottsdale, Arizona",600,2600,1300000
+,,,,,,Seattle,6000,20000,2400000
+,,,,,,Seattle - London,10000,50000,6000000
+,,,,,,"Seattle, Washington",21283.33333,354366.6667,15199997.33
+,,,,,,SF - Berlin,13500,450000,9720000
+,,,,,,SF - Remote,85,1000,14400000
+,,,,,,"SF, Atlanta, Remote",75000,416700,60000000
+,,,,,,Singapore,3600,33000,480000
+,,,,,,"Slovakia, UK, Palo Alto, Moscow",38000,330000,3240000
+,,,,,,"Sofia, Bulgaria",700,3000,810000
+,,,,,,"Sterling, Virginia",30000,400000,30000000
+,,,,,,Stockholm,100,1000,1500000
+,,,,,,"Stockholm, Sweden",8833.333333,92166.66667,2253333.333
+,,,,,,"Stuttgart, Germany",300,2000,480000
+,,,,,,"Sunnyvale, CA",12000,72000,9500000
+,,,,,,"Sweden, Bangalore",20000,100000,1200000
+,,,,,,"Tampa Bay, FL",2600,1500,60000000
+,,,,,,"Tartu, Tartumaa, Estonia",300,1400,900000
+,,,,,,"Tel Aviv, Israel",52.5,287,1900000
+,,,,,,Toronto,676,13000,7500000
+,,,,,,Toronto Ontario,40000,200000,10000000
+,,,,,,"Toronto, Australia",350,3000,1584000
+,,,,,,"Toronto, Canada",35000,280000,15500000
+,,,,,,Ukraine,90,1400,930000
+,,,,,,"Ukraine, SF, Toronto",200,1200,1080000
+,,,,,,United Kingdom,150,1000,4200000
+,,,,,,Utah,2600,29125,11187000
+,,,,,,"Vancouver, Canada",1750,30000,4200000
+,,,,,,"Vancouver, Montreal, Berlin",160,1000,15000000
+,,,,,,"Victoria, Canada",5400,27000,1000000
+,,,,,,Vienna,30,120,2640000
+,,,,,,Washington DC,250,1500,8400000
+,,,,,,Grand Total,12524.65975,190177.3386,11722614.49
